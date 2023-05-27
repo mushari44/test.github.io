@@ -1,0 +1,10 @@
+#imgCard{
+    position: relative;
+    text-align: center;
+    top:5002px;
+}
+#backGround{
+/* background-image: url("");     */
+background-image: linear-gradient(180deg,#fff 10%,#224abe 100%);
+;
+    }
